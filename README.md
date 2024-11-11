@@ -1,8 +1,5 @@
-# React + Vite
+# React playground to learn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello, the purpose of this project is only to learn react and test things to become a better web developer.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+At the moment I'm still learning. Hopefully, I plan to start real projects by the end of november.
